@@ -9,10 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VietPH37030&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VietPH37030&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
 <img src="https://th.bing.com/th/id/OIP.sDdyUTJ77Q112BMboEIC-gHaJF?rs=1&pid=ImgDetMain" width="512px"/>
 
 ---
